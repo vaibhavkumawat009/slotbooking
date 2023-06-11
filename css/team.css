@@ -1,0 +1,16 @@
+table,tr{
+    border: 1px solid black;
+    width:100%
+}
+#first{
+    background-color: #211f1f;
+    color:white;
+}
+
+ul{
+
+    display: inline;
+    margin:0;
+    padding: 0;
+    list-style: none;
+}
